@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AON3414
+D AON3414 MOSFET
+K MOSFET
+$ENDCMP
+#
+#End Doc Library
