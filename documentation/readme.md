@@ -8,15 +8,11 @@ Provides 2 sets of 5V, Clock, Signal, and Ground pins to drive DotStar LEDs. Clo
 This is based loosely on the [Adafruit RGB Matrix Bonnet](https://learn.adafruit.com/adafruit-rgb-matrix-bonnet-for-raspberry-pi/), but has been enhanced to handle [DotStar](https://www.adafruit.com/category/885) and [NeoPixels](https://www.adafruit.com/category/168). The ADC was also added to support a little more project possibilities as RPi does not have analog ports.
 
 ## Schematic
-
+<a href="https://raw.githubusercontent.com/jrowe88/RPi-LED-RGBMatrix-Hat/master/documentation/schematic.pdf"><img src='https://raw.githubusercontent.com/jrowe88/RPi-LED-RGBMatrix-Hat/master/documentation/schematic.PNG' width="200"></img></a>
 ## Circuit Board (Full)
-<img src='https://raw.githubusercontent.com/jrowe88/RPi-LED-RGBMatrix-Hat/master/documentation/fullboard.png' style="width:100px;"></img>
-## Circuit Board (Front)
-
-## Circuit Board (Back)
-
+<a href="https://raw.githubusercontent.com/jrowe88/RPi-LED-RGBMatrix-Hat/master/documentation/fullboard.png"><img src='https://raw.githubusercontent.com/jrowe88/RPi-LED-RGBMatrix-Hat/master/documentation/fullboard.png' width="200"></img></a> <a href="https://raw.githubusercontent.com/jrowe88/RPi-LED-RGBMatrix-Hat/master/documentation/frontboard.png"><img src='https://raw.githubusercontent.com/jrowe88/RPi-LED-RGBMatrix-Hat/master/documentation/frontboard.png' width="200"></img></a> <a href="https://raw.githubusercontent.com/jrowe88/RPi-LED-RGBMatrix-Hat/master/documentation/backboard.PNG"><img src='https://raw.githubusercontent.com/jrowe88/RPi-LED-RGBMatrix-Hat/master/documentation/backboard.PNG' width="200"></img></a>
 ## OSH Park Board Project
-
+<a href="https://raw.githubusercontent.com/jrowe88/RPi-LED-RGBMatrix-Hat/master/documentation/fullboard.png"><img src='https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/d76e7188bc10d15a657f97c2744a44c5.png' width="200"></img></a> &nbsp;<a href="https://raw.githubusercontent.com/jrowe88/RPi-LED-RGBMatrix-Hat/master/documentation/fullboard.png"><img src='https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/5962378cf38d954da379bb5472164afd.png' width="200"></img></a>
 
 ## DigiKey BOM
 [Link to cart in DigiKey](https://www.digikey.com/short/p8nr4q).  Larger multiples might yield small discounts.  OshPark allows boards to be built in multiples of 3.
